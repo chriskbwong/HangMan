@@ -41,6 +41,7 @@ public class gameRun {
 				/*
 				 * this could have been done with a switch
 				 * draws an image for the player to show how many guesses they made incorrectly
+				 * could have been done with a U.I.
 				 */
 				if (guessCount == 1) { 
 					System.out.println(presentedSentence);
