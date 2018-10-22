@@ -1,4 +1,5 @@
 import java.util.Scanner;
+//there is no front end to this game currently
 
 public class gameRun {
 
